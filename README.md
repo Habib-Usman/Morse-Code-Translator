@@ -5,3 +5,9 @@ A very simple morse code encoder and decoder
 
 ## Features 
 - This only has very basic functions that can encode / decode morse code
+
+## MVPS
+
+- Create a user interface that allows the user to either input some English text or some Morse Code
+- Create JS functions that would allow the user to translate their English text into Morse Code or Morse Code into English text
+- Make sure to handle spaces properly (ie. there is 1 space between English words, but one space between Morse Code characters)
